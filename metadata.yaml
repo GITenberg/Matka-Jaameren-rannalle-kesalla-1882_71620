@@ -1,0 +1,24 @@
+_repo: Matka-Jaameren-rannalle-kesalla-1882_71620
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mustakallio, Johannes
+    gutenberg_agent_id: '56304'
+    url: http://www.gutenberg.org/2009/agents/56304
+description: ''
+gutenberg_issued: '2023-09-12'
+identifiers:
+  gutenberg: '71620'
+language: fi
+pgterms:marc905: 20230704015837mustakalli
+pgterms:marc906: '1883'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aKuopio :$bKuopion uusi kirjapaino, $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Matka Jäämeren rannalle kesällä 1882
+url: http://www.gutenberg.org/ebooks/71620
