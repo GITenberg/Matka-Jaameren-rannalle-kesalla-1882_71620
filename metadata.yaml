@@ -1,11 +1,16 @@
 _repo: Matka-Jaameren-rannalle-kesalla-1882_71620
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mustakallio, Johannes
     gutenberg_agent_id: '56304'
     url: http://www.gutenberg.org/2009/agents/56304
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71620#Matka-Jaameren-rannalle-kesalla-1882
 gutenberg_issued: '2023-09-12'
 identifiers:
   gutenberg: '71620'
